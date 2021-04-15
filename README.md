@@ -4,8 +4,6 @@ I'm a software engineer, electronics hobbyist and 3D-printing enthusiast.
 
 At my day job I'm building backend infrastructure.
 
-I strive to always be curious.
-
 My biggest passion is learning how things work, from a transistor to planet-scale distributed systems.
 
 You can read about my hobby projects [on my website](https://iley.ru/projects/).
