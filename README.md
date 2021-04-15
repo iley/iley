@@ -1,6 +1,6 @@
 ### Hi, I'm Ilya
 
-I'm a software engineer, electronics hobbyist and 3D-printing enthusiast.
+I'm a software engineer, electronics hobbyist and DIY enthusiast.
 
 At my day job I'm building backend infrastructure.
 
