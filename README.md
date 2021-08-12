@@ -8,4 +8,4 @@ My biggest passion is learning how things work, from a transistor to planet-scal
 
 You can read about my hobby projects [on my website](https://istrukov.com/projects/).
 
-Feel free to reach out to me at [me@istrukov.com](mailto:me@istrukov.com)
+Feel free to reach out to me at [ilya@istrukov.com](mailto:ilya@istrukov.com)
